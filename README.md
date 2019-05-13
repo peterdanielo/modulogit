@@ -1,3 +1,2 @@
 Meu primeiro comentário no Git.
-
-Segunda alteração
+ALteração feita no master
